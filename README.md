@@ -1,16 +1,47 @@
-## Hi there 👋
+# 尤权（权哥）
 
-<!--
-**liuq88450-del/liuq88450-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 业务驱动的 AI 实践者 · 市场与项目推进者  
+> 个人公开档案 · 最后更新：2026-10-31 · **公开前待本人审核**
 
-Here are some ideas to get you started:
+非技术出身，负责市场、业务推进，也是所在公司的小股东。不是程序员，但善于把业务需求拆成可执行的任务，借助 AI 工具与团队将想法推进为可用产品。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我正在做什么
+
+| 项目 | 方向 | 进展 / 目标 |
+| --- | --- | --- |
+| [自住猫](projects.md#自住猫--网约房-pms-平台) | 网约房 / 民宿 PMS | **自述：** 已入驻 211 家酒店；相关系统对接与重构规划中 |
+| [星辰方洲](projects.md#星辰方洲--家庭水培设备) | 家庭水培设备销售 | 负责 C 端全渠道推广；**目标：** 月销 500 台、全年 GMV 545 万元 |
+| [家庭水培小程序](projects.md#家庭水培微信小程序) | 内容、社区、商城 | 五个 Tab 的产品方案与推进 |
+| [AI 与技能工具](projects.md#ai-工具与技能项目) | Skill / AI 跟班 / 工具化 | SkillHub 26 个技能（本人提供，待验收核实） |
+
+## 我的工作方向
+
+市场与业务推进 · 政企对接 · 内容运营 · 产品需求梳理 · AI 工具化落地
+
+## 我常用的工具
+
+WorkBuddy · Codex · MiniMax · DeepSeek · Kimi  
+团队技术栈（本人提供）：Laravel · Livewire · FluxUI
+
+## 我的工作原则
+
+> 给目标，看结果；交付前自己先验；能亲自推进的事主动承担；用 AI 提速，但判断在自己。
+
+## 档案导航
+
+- [项目与成果](projects.md)
+- [关于我](about-me.md)
+- [工作方式与决策](work-style.md)
+- [价值观与原则](values.md)
+- [人生历程与成长](journey.md)
+- [未来目标](goals.md)
+- [给 AI 的协作上下文](ai-context.md)
+- [事实与数据说明](EVIDENCE.md)
+- [公开前审核清单](REVIEW.md)
+- [更新日志](CHANGELOG.md)
+
+## 联系方式（发布前确认）
+
+邮箱：459502496@qq.com
+
+> 本仓库是公开档案，不包含家庭细节、个人财务、住址、证件或商业机密。项目数字及技术/业务对接状态均基于本人提供的信息，不代表第三方认证。
