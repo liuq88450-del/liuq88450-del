@@ -14,7 +14,7 @@
 | [家庭水培小程序](projects.md#家庭水培微信小程序) | 内容、社区、商城 | 已有五个Tab的产品方案，具体开发进度待确认 |
 | [AI 跟班](projects/ai-study-companion.md) | AI个性化学习陪练 | 已有体验版及真实用户；提供每周测验、错题整理和AI引导式辅导 |
 | [AI Skills](projects/skillhub.md) | AI工具策划与发布 | 自主策划并借助AI完成26项Skill，已全部在WorkBuddy上架并获得下载，持续更新与优化 |
-| 易桥财务管家 | 财务SaaS代理销售 | 面向全国线上推广；提供免费版及VIP套餐，已开展小红书宣传 |
+| [易桥财务管家](projects/yiqiao-finance.md) | 财务SaaS代理销售 | 面向全国线上推广；提供免费版及VIP套餐，已开展小红书宣传 |
 
 ## 我的工作方向
 
